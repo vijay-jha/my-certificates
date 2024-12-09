@@ -9,10 +9,10 @@ Welcome to my certifications portfolio! This repository contains a collection of
 Guide] - Certificate of Completion ([View Certificate](certificates/Udemy_Flutter_And_Dart_The_Complete_Guide_2021.pdf))
 - **Udemy**: [̌Go - The Complete Guide] - Certificate of Completion ([View Certificate](certificates/Udemy_Go_The_Complete_Guide_2024.pdf))
 - **Coursera**: [Supervised Machine Learning: Regression and
-Classification] - Certificate of Completion ([View Certificate](Coursera_Supervised_Machine_Learning_Regression_and_Classification_2023.pdf))
+Classification] - Certificate of Completion ([View Certificate](certificates/Coursera_Supervised_Machine_Learning_Regression_and_Classification_2023.pdf))
 - **Coursera**: [IBM DevOps and Software
-Engineering] - Certificate of Completion ([View Certificate](Coursera_IBM_DevOps_and_Software_Engineering_2024.pdf))
-- **Infosys**: [Data_Structures_and_Algorithms] - Certificate of Completion ([View Certificate](Infosys_Data_Structures_and_Algorithms_2024.pdf))
+Engineering] - Certificate of Completion ([View Certificate](certificates/Coursera_IBM_DevOps_and_Software_Engineering_2024.pdf))
+- **Infosys**: [Data_Structures_and_Algorithms] - Certificate of Completion ([View Certificate](certificates/Infosys_Data_Structures_and_Algorithms_2024.pdf))
 
 
 ### 2. **Teaching**
